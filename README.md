@@ -1,2 +1,2 @@
-Nama: Fikrie Ihsany Nur Cahyatmaja
-Kelompok: Triton
+* Nama: Fikrie Ihsany Nur Cahyatmaja  
+* Kelompok: Triton
